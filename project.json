@@ -3,6 +3,7 @@
   "description": "Robotic Process Automation (RPA) UAT Project",
   "main": "Main.xaml",
   "dependencies": {
+    "AIForged": "[1.5.1020.953]",
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.Mail.Activities": "[1.18.0]",
     "UiPath.System.Activities": "[22.10.1]",
