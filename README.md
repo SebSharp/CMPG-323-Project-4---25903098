@@ -18,6 +18,6 @@ This can be done by building an RPA solution and is especialy applicable in this
 
 There are two (main) ways a user can use the solution:
 
-1.) The user can clone the project and open in a local instance of uiPath Studio (any version), they can then simply run the entire process and watch it perform the CRUD    operations.
+1.) The user can clone the project and open in a local instance of UiPath Studio (any version), they can then simply run the entire process and watch it perform the CRUD    operations.
 
 2.) Since the solution is published to an instance of UiPath Orchestrator, provided the user has access to the Orchestrator and is connected, the user may also launch the process directly from their robot tray or from Orchestrator. 
