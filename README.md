@@ -1,11 +1,11 @@
 # CMPG-323-Project-4---25903098
-Architectural Patterns &amp; Web Application
+Testing & RPA using UiPath
 
-## What is a WebApp?
+## What is a RPA?
 
-A Web application (Web app) is an application program that is stored on a remote server and delivered over the Internet through a browser interface. Web services are Web apps by definition and many, although not all, websites contain Web apps. According to Web.AppStorm editor Jarel Remick, any website component that performs some function for the user qualifies as a Web app.
+Robotic process automation (RPA) is a software technology that makes it easy to build, deploy, and manage software robots that emulate humans actions interacting with digital systems and software. Just like people, software robots can do things like understand what’s on a screen, complete the right keystrokes, navigate systems, identify and extract data, and perform a wide range of defined actions.
 
-Source: <cite>[https://www.pluralsight.com/guides/how-to-use-gitignore-file](https://www.techtarget.com/searchsoftwarequality/definition/Web-application-Web-app)</cite>
+Source: <cite>https://www.uipath.com/rpa/robotic-process-automation</cite>
 
 ## Project 3
 For Prject 3 we were expected to create a WebAppApp and host it on Azure where we are expected to understand architectural patterns as well as pay
