@@ -7,13 +7,11 @@ Robotic process automation (RPA) is a software technology that makes it easy to 
 
 Source: <cite>https://www.uipath.com/rpa/robotic-process-automation</cite>
 
-## Project 3
-For Prject 3 we were expected to create a WebAppApp and host it on Azure where we are expected to understand architectural patterns as well as pay
-specific attention to implementing coding principles and design patterns – aligning to the
-requirements of the project.
+## Project 4
+
+
 
 ## How to use the Project
-The project can be accessed via this link hosted on Azure: https://25903098project3devicemanagementwebapp.azurewebsites.net/
 
 The user would simply create an account (register), then they are able to view the online database of a Connected Office. This provides the user with a view of devices, zones and categories for this office. Users can then add. remove or edit any of the devices, categories or zones in the connected office.
 
