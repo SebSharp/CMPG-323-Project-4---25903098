@@ -9,12 +9,15 @@ Source: <cite>https://www.uipath.com/rpa/robotic-process-automation</cite>
 
 ## Project 4
 
+This project required us to get familiar with two concepts, RPA and UAT. By using the web application used in both project 2 and 3, we now have to test the solution (being the web application) using the CRUD metod. We were expected to perform CRUD operations on Zones, Categories as well as Devices. 
+
+This can be done by building an RPA solution and is especialy applicable in this scenario since all the operations have to be carried out by interacting with the web application Ui elements. The RPA process needs to read inpu data, perform the CRUD operation and then update a result sheet used for tracking.
 
 
 ## How to use the Project
 
-The user would simply create an account (register), then they are able to view the online database of a Connected Office. This provides the user with a view of devices, zones and categories for this office. Users can then add. remove or edit any of the devices, categories or zones in the connected office.
+There are many ways a user can use the solution:
 
-This is done via API calls, managed by controllers each with their own Repository class and interface. These repositories get instantiated by a Generic repository ensuring that we follow proper design principles.
+1.) The user can clone the project and open in a local instance of uiPath Studio (any version), they can then simply run the entire process and watch it perform the CRUD    operations.
 
-To check out the project, simply clone the repository. You will need to provide an AppSettings.json file containing the connection string. 
+2.) 
